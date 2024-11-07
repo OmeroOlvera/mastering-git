@@ -1,4 +1,4 @@
-## Heyoo Everyone, welcome to my guide!
+## Welcome to Git!
 
-- Yo Johnny Here!
+- This is coming from 'dev-adriav'
 - I'm adding this from 'feature-branch'
